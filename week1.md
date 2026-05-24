@@ -61,9 +61,7 @@ I also used GitHub Pages to publish my website.I only used GitHub to store files
 ---
 ## Career/Employability/Learning Insights
 
-This week made me realise that front-end development is more about understanding patterns than memorising code.
-
-Bootstrap in particular showed me how real developers probably don’t write everything from scratch. Instead, they use frameworks to save time and keep things consistent. 
+This week made me realise that front-end development is more about understanding patterns than memorising code.Bootstrap in particular showed me how real developers probably don’t write everything from scratch. Instead, they use frameworks to save time and keep things consistent. 
 
 The scroll animation part was probably the most interesting for me. It took me a while to understand why the effect works, and I had to change things a few times before it looked right. This made me realise I learn better when I actually experiment instead of just watching tutorials.
 
