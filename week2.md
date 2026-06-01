@@ -10,11 +10,17 @@ I also observed several websites for design inspiration, including Oclean, Oral-
 **Resources used:**
 
 https://docs.joomla.org/Main_Page
+
 https://docs.joomla.org/Adding_a_new_article
+
 https://docs-next.joomla.org/Adding_a_new_menu
+
 https://blog.csdn.net/q1w3e5r7t9y/article/details/149373747
+
 https://dash.infinityfree.com/
+
 https://www.youtube.com/watch?v=W-kjZtbDvqc&list=PL41lfR-6DnOq3Tty3c0lyAz3aZdZOGXsK
+
 https://www.youtube.com/watch?v=h5VZwTLdgdM
 
 ## Estimated Hours
