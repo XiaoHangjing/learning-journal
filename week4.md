@@ -73,5 +73,3 @@ These experiences have helped me better understand the workflow used in modern w
 Overall, this week was useful because it introduced me to local development and how it fits into the website development process.
 
 Although the website itself was not very complex, I learned a lot about how WordPress works behind the scenes and why developers test websites locally before publishing them.
-
-Next week I hope to learn more about deployment and how to move a local WordPress site to a live hosting environment.
