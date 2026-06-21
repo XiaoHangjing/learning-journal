@@ -1,4 +1,4 @@
-# Week 5 – WordPress Child Themes
+# Week 5
 
 ## Learning Activities & Resources
 
